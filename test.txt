@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+asdaaaaa
+=======
+asdasdasd
+>>>>>>> brancz
+=======
+asdasdasd
+>>>>>>> brancz
